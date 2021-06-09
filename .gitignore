@@ -1,0 +1,21 @@
+# based on
+[user]
+    name = Jacob Stavrianos
+    email = jstav@stanford.edu
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+[color "status"]
+    added = green
+    changed = blue
+    untracked = red
+[color "diff"]
+    meta = yellow
+    old = red
+    new = green
+[commit]
+[core]
+    editor = vim
+[push]
+[alias]
