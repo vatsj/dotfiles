@@ -21,3 +21,4 @@ To uninstall, just delete the symlinks
 [victoriadrake](https://github.com/victoriadrake/dotfiles/tree/ubuntu-20.04)
 [kliu128](https://github.com/kliu128/dotfiles)
 [webpro](https://github.com/webpro/dotfiles)
+[minimalist](https://github.com/j7k6/dotfiles)
