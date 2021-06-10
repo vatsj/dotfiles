@@ -14,12 +14,17 @@ clear-dotfiles: # clears old dotfiles from home directory
 
 	# iterates through dotfiles
 	IGNORED_DOTFILES = (.git .gitignore)
-	for file in .*; do
-		# if file in IGNORED_DOTFILES
-		if [[! " $(IGNORED_DOTFILES[@]) " =~ " $(file)) " ]]; then
-			mv $(file) $(REPLACED_DIR); done;
-
-	; done;
+	for file in $(SOURCE_DIR).*; do
+		# if file isn't in IGNORED_DOTFILES
+		# (\t intended as a delimiter character)
+		if [[! "\t$(IGNORED_DOTFILES[@])\t" =~ "\t$(file))\t" ]]; then
+			file_path = $(SOURCE_DIR)/$(file)
+			# if file is in target directory
+			if [[-f $(file_path)]]; then
+				mv $(file_path) $(REPLACED_DIR)
+			fi
+		fi
+	done
 
 symlink-dotfiles: # stows dotfiles in home directory
 
