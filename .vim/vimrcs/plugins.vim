@@ -15,6 +15,9 @@ Plugin 'VundleVim/Vundle.vim'
 
 # add plugins here!
 
+# airline
+Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
 
 # All of your Plugins must be added before the following line
 call vundle#end()            # required
