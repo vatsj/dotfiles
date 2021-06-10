@@ -3,6 +3,10 @@
 # minimalist .vimrc
 # based on https://docs.j7k6.org/my-minimal-vimrc/
 
+# vim settings > vi settings
+# (also required for vundle compatibility)
+set nocompatible
+
 # basic settings
 set autoread                                     # reload on external file changes
 set backspace=indent,eol,start                   # backspace behaviour
@@ -21,9 +25,11 @@ set listchars=eol:¶,trail:•,tab:▸\               # whitespace characters
 set scrolloff=999                                # center cursor position vertically
 set showbreak=¬\                                 # Wrapping character
 set showmatch                                    # show matching brackets
-syntax on                                        # enable syntax highlightning
 
-# Add color scheme here :)
+# color scheme - onedark
+# (based on Atom's color scheme)
+syntax on
+colorscheme onedark
 
 # tabs = 4 spaces
 set autoindent expandtab                         # autoindentation & tabbing
