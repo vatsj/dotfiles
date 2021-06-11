@@ -6,5 +6,6 @@
 # calls component vimrc's
 target="./vimrcs"
 
-. $target/basic.vim
+. $target/test.vim
+# . $target/basic.vim
 # . $target/plugins.vim
