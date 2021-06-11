@@ -1,0 +1,4 @@
+# binds run commands
+# requires `alias atom-run=[code to be run]`
+'.platform-linux atom-text-editor':
+  'ctrl-r': 'termination:insert-custom-text-1'

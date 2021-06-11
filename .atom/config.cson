@@ -1,0 +1,20 @@
+"*":
+  core:
+    customFileTypes:
+      "source.shell": [
+        "vim"
+        "vimrc"
+        "tmux.conf"
+      ]
+    disabledPackages: [
+      "vim-mode-plus"
+    ]
+    telemetryConsent: "limited"
+  editor: {}
+  "exception-reporting":
+    userId: "f12d6c51-1a38-4760-8220-7a06ffd63d02"
+  termination:
+    customTexts:
+      customText1: "atom-run"
+  welcome:
+    showOnStartup: false

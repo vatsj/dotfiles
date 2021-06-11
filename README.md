@@ -19,9 +19,9 @@ This repo contains the dotfiles I ([Jacob](https://vatsj.github.io/)) use on *ni
 
 ## Installation
 - clone the repo to gain access to the dotfiles
-- run `???` to symlink files to target directory (`~` by default)
+- run `make symlink-dotfiles` to symlink files to target directory (`~` by default)
 
-To uninstall, just delete the symlinks
+To uninstall, run `make unlink-dotfiles` (or manually delete the symlinks)
 
 ## Sources
 [victoriadrake](https://github.com/victoriadrake/dotfiles/tree/ubuntu-20.04)
