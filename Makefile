@@ -5,22 +5,26 @@
 TARGET_DIR = ${HOME}
 REPLACED_DIR = ${TARGET_DIR}/replaced_dotfiles
 
-
+# not working!
 clear-dotfiles: # clears old dotfiles from home directory
 
 	# creates directory for replaced dotfiles
-	mkdir ${REPLACED_DIR}
+	# does nothing if directory already exists
+	mkdir -p ${REPLACED_DIR}
 
 	# iterates through dotfiles
-	for file in ${SOURCE_DIR}/.*; do
-
+	for file in ${SOURCE_DIR}"/.*"
+	do
 		# if file isn't in IGNORED_FILES
 		IGNORED_FILES = ${SOURCE_DIR}.stow-local-ignore
 		# (tests regex match, \t used as a delimiter character)
-		if [[ ]$(awk {print} .stow-local-ignore | grep $file) ]]; then; else
+		if [[ $(awk {print} .stow-local-ignore | grep $file) ]]
+		then
+		else
 			file_path = ${TARGET_DIR}/${file}
 			# if file is in target directory
-			if [[-f ${file_path}]]; then
+			if [[-f ${file_path}]]
+			then
 				# move it to replacement directory
 				mv ${file_path} ${REPLACED_DIR}
 			fi
@@ -41,7 +45,7 @@ adopt-dotfiles:
 
 # shows changes, doesn't apply them
 fake-symlink:
-	stow --adopt -t ${TARGET_DIR} . -n -v
+	stow -t ${TARGET_DIR} . -n -v
 
 unlink-dotfiles:
 	stow --delete -t ${TARGET_DIR} .

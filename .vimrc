@@ -58,7 +58,3 @@ let mapleader=','
 nnoremap <leader>s :source ~/.vimrc<CR>
 " toggles line wrap
 nnoremap <leader>w :set wrap! wrap?<CR>
-
-
-" w!! = 'sudo save'
-cnoreabbrev w!! w !sudo tee > /dev/null %|       " write file with sudo
