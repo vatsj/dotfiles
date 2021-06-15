@@ -17,3 +17,6 @@
 ^/README.*
 ^/LICENSE.*
 ^/COPYING
+
+# misc folders
+old
