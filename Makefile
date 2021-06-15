@@ -2,7 +2,6 @@
 # https://github.com/webpro/dotfiles/blob/master/Makefile
 
 # for symlinking dotfiles
-SOURCE_DIR = .
 TARGET_DIR = ${HOME}
 REPLACED_DIR = ${TARGET_DIR}/replaced_dotfiles
 
@@ -18,7 +17,7 @@ clear-dotfiles: # clears old dotfiles from home directory
 		# if file isn't in IGNORED_FILES
 		IGNORED_FILES = ${SOURCE_DIR}.stow-local-ignore
 		# (tests regex match, \t used as a delimiter character)
-		if [[! [[ $(awk {print} .stow-local-ignore | grep $file) ]] ]]; then
+		if [[ ]$(awk {print} .stow-local-ignore | grep $file) ]]; then; else
 			file_path = ${TARGET_DIR}/${file}
 			# if file is in target directory
 			if [[-f ${file_path}]]; then
@@ -33,9 +32,16 @@ clear-dotfiles: # clears old dotfiles from home directory
 symlink-dotfiles: # clear-dotfiles
 
 	# stows the files
-	# adopts existing dotfiles! (make sure you want this)
-	stow --adopt -t ${TARGET_DIR} ${SOURCE DIR}
+	stow -t ${TARGET_DIR} . -v
 
+# adopts dotfiles in the directory
+# overwrites identical files in the repo
+adopt-dotfiles:
+	stow --adopt -t ${TARGET_DIR} . -v
+
+# shows changes, doesn't apply them
+fake-symlink:
+	stow --adopt -t ${TARGET_DIR} . -n -v
 
 unlink-dotfiles:
-	stow --delete -t ${TARGET_DIR} ${file}
+	stow --delete -t ${TARGET_DIR} .
