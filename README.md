@@ -19,7 +19,8 @@ This repo contains the dotfiles I ([Jacob](https://vatsj.github.io/)) use on *ni
 
 ## Installation
 - clone the repo to gain access to the dotfiles
-- run `make symlink-dotfiles` to symlink files to target directory (`~` by default)
+- To clear pre-existing dotfiles, run `make clear-dotfiles`. The dotfiles will be placed into a `replaced_dotfiles` folder; you can continue using them by adding them to the dotfiles repo.
+- run `make symlink-dotfiles` to symlink files to target directory (`~` by default). This will adopt any dotfiles in the target directory!
 
 To uninstall, run `make unlink-dotfiles` (or manually delete the symlinks)
 

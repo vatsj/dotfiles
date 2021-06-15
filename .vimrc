@@ -4,7 +4,7 @@
  #https://github.com/romainl/idiomatic-vimrc
 
 # calls component vimrc's
-target="./vimrcs"
+let target = "./vimrcs"
 
 . $target/test.vim
 # . $target/basic.vim

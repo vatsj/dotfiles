@@ -1,0 +1,19 @@
+# GNU Stow - ignore file
+# source:
+# http://www.gnu.org/software/stow/manual/stow.html#Types-And-Syntax-Of-Ignore-Lists
+
+# ~./dotfiles/.stow.local.ignore: Files to be ignored by gnu 'stow'
+# Comments and blank lines are allowed.
+# See 'info stow' section "4 Ignore Lists" for more information
+
+# git
+\.git
+\.gitignore
+
+# makefile
+^/Makefile
+
+# text docs
+^/README.*
+^/LICENSE.*
+^/COPYING

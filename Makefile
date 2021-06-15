@@ -13,11 +13,12 @@ clear-dotfiles: # clears old dotfiles from home directory
 	mkdir ${REPLACED_DIR}
 
 	# iterates through dotfiles
-	IGNORED_DOTFILES = (.git .gitignore)
-	for file in ${SOURCE_DIR}.*; do
-		# if file isn't in IGNORED_DOTFILES
+	for file in ${SOURCE_DIR}/.*; do
+
+		# if file isn't in IGNORED_FILES
+		IGNORED_FILES = ${SOURCE_DIR}.stow-local-ignore
 		# (tests regex match, \t used as a delimiter character)
-		if [[! "\t${IGNORED_DOTFILES[@]}\t" =~ "\t${file}\t" ]]; then
+		if [[! [[ $(awk {print} .stow-local-ignore | grep $file) ]] ]]; then
 			file_path = ${TARGET_DIR}/${file}
 			# if file is in target directory
 			if [[-f ${file_path}]]; then
@@ -28,11 +29,12 @@ clear-dotfiles: # clears old dotfiles from home directory
 	done
 
 # stows dotfiles in home directory
-# starts by clearing dotfiles
-symlink-dotfiles: clear-dotfiles
+# clear dotfiles if you haven't already
+symlink-dotfiles: # clear-dotfiles
 
 	# stows the files
-	stow -t ${TARGET_DIR} ${SOURCE DIR}
+	# adopts existing dotfiles! (make sure you want this)
+	stow --adopt -t ${TARGET_DIR} ${SOURCE DIR}
 
 
 unlink-dotfiles:
