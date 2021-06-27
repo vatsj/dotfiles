@@ -1,0 +1,2 @@
+# calls .bashrc
+source ~/.bashrc
