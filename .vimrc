@@ -58,3 +58,18 @@ let mapleader=','
 nnoremap <leader>s :source ~/.vimrc<CR>
 " toggles line wrap
 nnoremap <leader>w :set wrap! wrap?<CR>
+
+" loads vundle + plugins
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+" alternatively, pass a path where Vundle should install plugins
+"call vundle#begin('~/some/path/here')
+
+" let Vundle manage Vundle, required
+Plugin 'VundleVim/Vundle.vim'
+
+" install custom plugins
+Plugin 'vim-airline/vim-airline'
+
+" All of your Plugins must be added before the following line
+call vundle#end()            " required
