@@ -136,5 +136,6 @@ unset __conda_setup
 
 # Install Ruby Gems to ~/gems
 export GEM_HOME="$HOME/gems"
-export PATH="$HOME/gems/bin:$PATH"
 
+# exports custom-set PATH
+export PATH="/home/jstav/anaconda3/envs/dev/bin:/home/jstav/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/jstav/gems/bin:/home/jstav/bin"
