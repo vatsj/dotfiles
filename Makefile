@@ -6,8 +6,6 @@ SOURCE_DIR = ${shell pwd}
 TARGET_DIR = ${HOME}
 REPLACED_DIR = ${TARGET_DIR}/replaced_dotfiles
 
-# awk {print} ${SOURCE_DIR}/.stow-local-ignore | grep $$(basename $${file}); \
-
 # clears old dotfiles from home directory
 clear-dotfiles:
 
