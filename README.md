@@ -17,6 +17,10 @@ This repo contains the dotfiles I ([Jacob](https://vatsj.github.io/)) use on *ni
 - Mac OS: `brew install stow`
 - Debian: `sudo apt install stow`
 
+[Make](https://www.gnu.org/software/make/manual/make.html) for executing commands from the makefile
+- Mac OS: `brew install make`
+- Debian: `sudo apt install make`
+
 ## Installation
 - clone the repo to gain access to the dotfiles
 - To clear pre-existing dotfiles, run `make clear-dotfiles`. The dotfiles will be placed into a `replaced_dotfiles` folder; you can continue using them by adding them to the dotfiles repo.

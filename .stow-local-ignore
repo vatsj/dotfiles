@@ -6,9 +6,18 @@
 # Comments and blank lines are allowed.
 # See 'info stow' section "4 Ignore Lists" for more information
 
+# any .swp
+.*\.swp
+
 # git
 \.git
 \.gitignore
+
+# stow
+\.stow-local-ignore
+
+# any non-dofiles
+^/[^.].*
 
 # makefile
 ^/Makefile
@@ -17,6 +26,3 @@
 ^/README.*
 ^/LICENSE.*
 ^/COPYING
-
-# misc folders
-old
