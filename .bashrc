@@ -115,9 +115,6 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-# Install Ruby Gems to ~/gems
-export GEM_HOME="$HOME/gems"
-export PATH="$HOME/gems/bin:$PATH"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
@@ -134,7 +131,5 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
-# Install Ruby Gems to ~/gems
-export GEM_HOME="$HOME/gems"
-export PATH="$HOME/gems/bin:$PATH"
-
+GEM_HOME=${HOME}/gems
+export PATH="/home/jstav/anaconda3/bin:/home/jstav/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/jstav/bin:/home/jstav/gems/bin"
