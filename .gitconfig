@@ -1,24 +1,28 @@
 # based on the following:
 # https://github.com/victoriadrake/dotfiles/blob/ubuntu-19.10/.gitconfig
 # https://github.com/kevinsawicki/dotfiles/blob/master/.gitconfig
-[user]
-    name = Jacob Stavrianos
-    email = jstav@stanford.edu
-[color]
-    diff = auto
-    status = auto
-    branch = auto
-[color "status"]
-    added = green
-    changed = blue
-    untracked = red
-[color "diff"]
-    meta = yellow
-    old = red
-    new = green
-[commit]
 [core]
-    editor = vim
+  editor = vim
+[user]
+  name = Jacob Stavrianos
+  # username = vatsj
+  email = jstav@stanford.edu
+[init]
+  defaultBranch = main
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+[color "status"]
+  added = green
+  changed = blue
+  untracked = red
+[color "diff"]
+  meta = yellow
+  old = red
+  new = green
+[commit]
+
 [push]
 [alias]
 
