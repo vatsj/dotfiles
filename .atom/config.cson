@@ -1,11 +1,7 @@
 "*":
   core:
     customFileTypes:
-      "source.shell": [
-        "vim"
-        "vimrc"
-        "tmux.conf"
-      ]
+      "source.shell": []
     disabledPackages: [
       "vim-mode-plus"
     ]
