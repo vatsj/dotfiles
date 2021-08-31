@@ -10,8 +10,7 @@
       "vim-mode-plus"
     ]
     telemetryConsent: "limited"
-  editor:
-    fontSize: 17
+  editor: {}
   "exception-reporting":
     userId: "f12d6c51-1a38-4760-8220-7a06ffd63d02"
   termination:
