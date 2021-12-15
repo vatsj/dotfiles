@@ -4,6 +4,7 @@
 " vim settings > vi settings
 " (also required for vundle compatibility)
 set nocompatible
+filetype off
 
 " basic settings
 set autoread                                     " reload on external file changes
@@ -13,12 +14,14 @@ set encoding=utf8                                " enable utf8 support
 set hidden                                       " hide buffers, don't close
 set mouse=a                                      " enable mouse support
 set nowrap                                       " disable wrapping
-set number                                       " show line numbers
 set term=xterm-256color                          " terminal type
 set wildmenu wildmode=longest:full,full          " wildmode settings
 
+" relative line numbers
+set number
+set relativenumber
+
 " UI settings
-filetype plugin indent on                        " enable filetype detection
 set listchars=eol:¶,trail:•,tab:▸\               " whitespace characters
 set scrolloff=999                                " center cursor position vertically
 set showbreak=¬\                                 " Wrapping character
@@ -34,7 +37,8 @@ set autoindent expandtab                         " autoindentation & tabbing
 set shiftwidth=4 softtabstop=4 tabstop=4
 
 " search settings
-set hlsearch ignorecase incsearch smartcase      " search options
+set incsearch smartcase
+set hlsearch ignorecase
 
 " overrides vim's backup/undo settings
 set nobackup noswapfile nowritebackup            " disable backup/swap files
@@ -48,8 +52,8 @@ set ttyfast                                      " enable fast terminal connecti
 " keybindings
 
 " beginning/end of lines
-nnoremap B ^
-nnoremap E $
+nnoremap 0 ^
+nnoremap 9 $
 
 " leader = comma
 let mapleader=','
@@ -67,14 +71,16 @@ call vundle#begin()
 
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
-let g:airline#extensions#tabline#enabled = 1
-
 
 " install custom plugins
 Plugin 'vim-airline/vim-airline'
+let g:airline#extensions#tabline#enabled = 1
 
 Plugin 'junegunn/fzf'
 Plugin 'junegunn/fzf.vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
+
+" filetype can be turned after vundle plugins loaded
+filetype plugin indent on                        " enable filetype detection

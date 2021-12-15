@@ -136,3 +136,9 @@ export GEM_HOME="$HOME/gems"
 
 # exports custom-set PATH
 export PATH="/home/jstav/anaconda3/envs/dev/bin:/home/jstav/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/jstav/gems/bin:/home/jstav/bin"
+
+# The next line updates PATH for the Google Cloud SDK.
+if [ -f '/home/jstav/Downloads/google-cloud-sdk/path.bash.inc' ]; then . '/home/jstav/Downloads/google-cloud-sdk/path.bash.inc'; fi
+
+# The next line enables shell command completion for gcloud.
+if [ -f '/home/jstav/Downloads/google-cloud-sdk/completion.bash.inc' ]; then . '/home/jstav/Downloads/google-cloud-sdk/completion.bash.inc'; fi

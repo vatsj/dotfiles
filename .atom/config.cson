@@ -4,11 +4,18 @@
       "source.shell": []
     disabledPackages: [
       "vim-mode-plus"
+      "ftp-remote-edit"
+      "remote-ftp"
     ]
     telemetryConsent: "limited"
   editor: {}
   "exception-reporting":
     userId: "f12d6c51-1a38-4760-8220-7a06ffd63d02"
+  "ftp-remote-edit":
+    config: "397b90abccd29db7c730d11d583e1503fb08a77794a1d3402613a3819febffcd92fc8c597efa0d02d0cde980eefdaf6b4c305de9db5a0257f9884dc950852539e145eb92932f12d432dbc9b9bfd0bb932e2f5222534ef73ab4c07583ac7fb8a84c9228a5f38e2a354c64b8ad12f523b299e703023f89e6aa521390e0cc31519f2d79b0f929591253de6285b636a4a2311b69b30348206c5a6b2ffb2c54c94ae79e7dc7f7bdae7b4a81f71c113ac10d464d8e164d87b0ee65a0ac9bb8373a61291c73e3dd7e390d51ba8d2a7abb4339b28fe6533b66e2c207435b0ca993f0db391fc1c6682184e024906e1fbb03a94eac740d7d52c870d433beed53caa7b9e85cd569fbde6d5ee92acd043ddf372ff2f2c115131ff63cdc8b805e6926f9879df340aef0eb1a88152e6a4e05965604cfb1c695c5c8dc6c20f13dcdbadb98"
+    dev: {}
+    password: "122b89afd6d584accf669b0b"
+    transfer: {}
   termination:
     customTexts:
       customText1: "atom-run"

@@ -4,3 +4,6 @@
 
 # don't push atom-github auth tokens!
 .atom-socket-secret*
+
+# misc ssh tokens
+.ssh/google_compute_*
