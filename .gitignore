@@ -1,6 +1,7 @@
 # don't store atom infrastructure
 .atom/packages
 .atom/storage
+.atom/blob-store
 
 # don't push atom-github auth tokens!
 .atom-socket-secret*
