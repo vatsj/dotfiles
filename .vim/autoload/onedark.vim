@@ -1,1 +1,1 @@
-../colors/onedark.vim
+../bundle/onedark.vim/autoload/onedark.vim

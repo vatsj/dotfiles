@@ -30,7 +30,7 @@ set showmatch                                    " show matching brackets
 " color scheme - onedark
 " (based on Atom's color scheme)
 syntax on
-colorscheme onedark
+" colorscheme onedark
 
 " tabs = 4 spaces
 set autoindent expandtab                         " autoindentation & tabbing
@@ -71,6 +71,9 @@ call vundle#begin()
 
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
+
+" color scheme: onedark (atom-based)
+Plugin 'joshdick/onedark.vim'
 
 " install custom plugins
 Plugin 'vim-airline/vim-airline'
