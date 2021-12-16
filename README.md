@@ -28,6 +28,9 @@ This repo contains the dotfiles I ([Jacob](https://vatsj.github.io/)) use on *ni
 
 To uninstall, run `make unlink-dotfiles` (or manually delete the symlinks)
 
+## Notes
+- I've had issues with the `.vim/bundle` repos not storing with the git repo, forcing users to manually clone git repos into the directory. Upon doing so, everything else (vundle and the `.vim/autoload` symlinks) should work out of the box; an easy test is to check that vim is in [onedark](https://github.com/joshdick/onedark.vim) colorscheme.
+
 ## Sources
 [victoriadrake](https://github.com/victoriadrake/dotfiles/tree/ubuntu-20.04)
 [kliu128](https://github.com/kliu128/dotfiles)
