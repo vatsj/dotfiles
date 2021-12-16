@@ -27,11 +27,6 @@ set scrolloff=999                                " center cursor position vertic
 set showbreak=¬\                                 " Wrapping character
 set showmatch                                    " show matching brackets
 
-" color scheme - onedark
-" (based on Atom's color scheme)
-syntax on
-" colorscheme onedark
-
 " tabs = 4 spaces
 set autoindent expandtab                         " autoindentation & tabbing
 set shiftwidth=4 softtabstop=4 tabstop=4
@@ -87,3 +82,8 @@ call vundle#end()            " required
 
 " filetype can be turned after vundle plugins loaded
 filetype plugin indent on                        " enable filetype detection
+
+" color scheme - onedark
+" (based on Atom's color scheme)
+syntax on
+colorscheme onedark
