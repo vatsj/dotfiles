@@ -27,9 +27,10 @@ set scrolloff=999                                " center cursor position vertic
 set showbreak=¬\                                 " Wrapping character
 set showmatch                                    " show matching brackets
 
-" tabs = 4 spaces
+" tabs = 2 spaces
+" (since we're editing in c/c++)
 set autoindent expandtab                         " autoindentation & tabbing
-set shiftwidth=4 softtabstop=4 tabstop=4
+set shiftwidth=2 softtabstop=2 tabstop=2
 
 " search settings
 set incsearch smartcase
@@ -50,8 +51,8 @@ set ttyfast                                      " enable fast terminal connecti
 nnoremap 0 ^
 nnoremap 9 $
 
-" leader = comma
-let mapleader=','
+" leader = space
+let mapleader=' '
 
 " runs .vimrc
 nnoremap <leader>s :source ~/.vimrc<CR>
@@ -77,11 +78,23 @@ let g:airline#extensions#tabline#enabled = 1
 Plugin 'junegunn/fzf'
 Plugin 'junegunn/fzf.vim'
 
+" fzf config
+nnoremap <silent> <leader><leader> :Files<CR>
+" I want tmux keybindings but it freaks out over ctrl-hyphen :(
+" let g:fzf_action = {
+"   \ 'ctrl-t': 'tab split',
+"   \ 'ctrl--': 'split',
+"   \ 'ctrl-_': 'vsplit' }
+let g:fzf_action = {
+  \ 'ctrl-t': 'tab split',
+  \ 'ctrl-x': 'split',
+  \ 'ctrl-v': 'vsplit' }
+
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 
-" filetype can be turned after vundle plugins loaded
-filetype plugin indent on                        " enable filetype detection
+" filetype detection can be turned after vundle plugins loaded
+filetype plugin indent on
 
 " color scheme - onedark
 " (based on Atom's color scheme)
