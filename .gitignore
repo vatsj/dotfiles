@@ -12,3 +12,6 @@
 # vim/tmux modules
 # don't store vim modules other than vundle?!
 .vim/bundle/*
+
+# macOS artifact
+.DS_Store
