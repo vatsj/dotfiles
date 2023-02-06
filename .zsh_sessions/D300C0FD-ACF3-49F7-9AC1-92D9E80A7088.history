@@ -162,3 +162,38 @@ ls
 cd a1
 ls
 jupyter lab
+hi
+which xelatex
+conda activate cs224n
+cd Documents/classes/CS\ 224N/a1
+jupyter nbconvert --to pdf *.ipynb
+notebook.pdf
+ls
+jupyter nbconvert --to pdf *.ipynb
+cd imgs
+cd ..
+cd ..
+ls
+jupyter nbconvert --to pdf a1/*.ipynb
+cd a1
+ls
+cd imgs
+jupyter nbconvert --to pdf ../*.ipynb
+cd ..
+jupyter nbconvert --to pdf ../*.ipynb
+jupyter nbconvert --to pdf ./*.ipynb
+jupyter nbconvert --to pdf ./*.ipynb --output a1.pdf
+jupyter nbconvert --to latex ./*.ipynb --output a1.pdf
+xelatex a1.pdf.tex
+conda install numpy
+conda install pandas
+y
+conda activate cs224n
+ls
+cd Documents
+ls
+cd classes/CS\ 224N/a1
+ls
+jupyter lab
+conda install nbconvert -y
+jupyter lab
