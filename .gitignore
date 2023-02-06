@@ -10,5 +10,5 @@
 .ssh/google_compute_*
 
 # vim/tmux modules
-don't store vim modules other than vundle?!
+# don't store vim modules other than vundle?!
 .vim/bundle/*
