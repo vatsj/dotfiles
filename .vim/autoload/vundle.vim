@@ -1,1 +1,0 @@
-../bundle/Vundle.vim/autoload/vundle.vim
