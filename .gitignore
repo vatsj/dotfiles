@@ -10,8 +10,10 @@
 .ssh/google_compute_*
 
 # vim/tmux modules
-# don't store vim modules other than vundle?!
+
+# don't store non-submodule plugins!
 .vim/bundle/*
+.tmux/plugins/*
 
 # macOS artifact
 .DS_Store
