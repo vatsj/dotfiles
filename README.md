@@ -35,8 +35,8 @@ To uninstall, run `make unlink-dotfiles` (or manually delete the symlinks)
 ## Notes
 <!-- - I've had issues with the `.vim/bundle` repos not storing with the git repo, forcing users to manually clone git repos into the directory. Upon doing so, everything else (vundle and the `.vim/autoload` symlinks) should work out of the box; an easy test is to check that vim is in [onedark](https://github.com/joshdick/onedark.vim) colorscheme. -->
 - Package managers ([vundle](https://github.com/VundleVim/Vundle.vim) and [tpm](https://github.com/tmux-plugins/tpm)) are used for Vim and tmux (respectively). The package managers are pre-installed via [submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules), which are instantiated (cloned from their home repos) via the above `git` commands. From there, the plugin manager functionality suffices to install plugins:
-- run `:PluginInstall` from Vim or `vim +PluginInstall +qall` from command line
-- For tmux, use `prefix + I` to install dependencies
+    - run `:PluginInstall` from Vim or `vim +PluginInstall +qall` from command line
+    - For tmux, use `prefix + I` to install dependencies
 
 ## Sources
 [victoriadrake](https://github.com/victoriadrake/dotfiles/tree/ubuntu-20.04)

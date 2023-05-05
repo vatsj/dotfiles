@@ -1,0 +1,856 @@
+ls
+cd Downloads
+sudo blah
+git clone https://github.com/Wandmalfarbe/evangelion-clock-screensaver/releases/tag/v1.1.1
+cd /Library/Screen Savers/Default Collections\
+
+cd /Library/Screen\ Savers/Default\ Collections\
+
+finder
+Finder
+git clone https://github.com/Wandmalfarbe/evangelion-clock-screensaver/releases/tag/v1.1.1
+man curl
+curl https://github.com/Wandmalfarbe/evangelion-clock-screensaver/releases/tag/v1.1.1
+curl -s https://github.com/Wandmalfarbe/evangelion-clock-screensaver/releases/tag/v1.1.1
+curl -s https://github.com/Wandmalfarbe/evangelion-clock-screensaver/releases/tag/v1.1.1 \\
+
+LS
+CD ..
+ls
+cd .
+ls
+sudo cd .
+ls
+pwd
+cd /
+ls
+cd Volumes
+ls
+cd STAVSHIP3
+ls
+ls -a
+rm -r *
+ls -a
+ls
+cd Downloads
+ls
+chmod +x Miniconda3-latest-MacOSX-arm64.sh
+. Miniconda3-latest-MacOSX-arm64.sh
+. Miniconda3-latest-MacOSX-arm64.sh
+sh Miniconda3-latest-MacOSX-arm64.sh
+conda activate
+conda init
+open .
+cd ..
+open .
+ls -a
+cd .kaggle
+ls
+cd .kaggle
+open
+open .
+chmod +600 *
+chmod 600 *
+chmod +700 *
+chmod +rwx *
+kaggle competitions download -c berkeleytradingcompetition2022
+pip install kaggle
+kaggle competitions download -c berkeleytradingcompetition2022
+kaggle competitions download -c berkeleytradingcompetition2022
+sudo kaggle competitions download -c berkeleytradingcompetition2022
+sudo kaggle competitions download -c berkeleytradingcompetition2022
+sudo kaggle competitions download -c berkeleytradingcompetition2022
+sudo kaggle competitions download -c berkeleytradingcompetition2022
+ls
+unzip berkeleytradingcompetition2022.zip
+ls
+rm berkeleytradingcompetition2022.zip
+conda install pandas
+conda install numpy
+conda install numpy
+conda install sklearn
+conda install matplotlib
+conda install sklearn
+conda install -c anaconda scikit-learn\
+
+ls
+cd sub
+kaggle competitions submit -c berkeleytradingcompetition2022 -f "sub_frame.csv" -m "metastrategy"
+kaggle competitions submit -c berkeleytradingcompetition2022 -f "sub_frame.csv" -m "metastrategy"
+kaggle competitions submit -c berkeleytradingcompetition2022 -f "sub_frame.csv" -m "metastrategy"
+conda list
+conda env list
+$ conda install -c conda-forge jupyterlab\
+
+conda install -c conda-forge jupyterlab\
+
+jupyter lab
+sudo randomness
+/usr/bin/python3 /Users/jstav/Downloads/hi.py
+/usr/bin/python3 /Users/jstav/Downloads/hi.py
+conda env list
+conda env listttt
+UWU
+git config
+git config --get-all
+yo yo  yo
+oy oy oy
+brew install stow
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\
+
+echo '# Set PATH, MANPATH, etc., for Homebrew.' >> /Users/jstav/.zprofile
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/jstav/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
+brew
+brew install stow
+brew install make
+make fake-symlink
+make
+cd dotfiles
+make fake-symlink
+make fake-symlink
+make symlink-dotfiles
+cd ..
+ls
+cd ss-ubuntu
+ls
+git add submodule https://github.com/vatsj/ss-pl
+git submodule add https://github.com/vatsj/ss-pl
+ls
+. ss-pl/julia.jl
+julia
+cd ..
+cd dotfiles
+diff .bashrc .zshrc
+clear
+cd ..
+cd ss-mac
+git submodule add https://github.com/vatsj/ss-pl
+EDITOR
+$EDITOR
+echo $EDITOR
+brew install stow
+brew
+ls
+conda env create -f env.yml
+conda activate cs224n
+python -m ipykernel install --user --name cs224n
+conda install pandoc
+conda activate cs224n
+conda install -c anaconda nbconvert
+jupyter lab
+ls
+cd code
+ls
+ls
+git clone https://github.com/vatsj/dotfiles
+ls
+git clone https://github.com/vatsj/ss-ubuntu
+git clone https://github.com/vatsj/ss-mac
+conda activate cs224
+conda activate cs224n
+ls
+cd ~
+ls
+cd Documents
+ls
+ls
+cd classes
+ls
+cd CS\ 224N
+ls
+cd a1
+ls
+jupyter lab
+hi
+which xelatex
+conda activate cs224n
+cd Documents/classes/CS\ 224N/a1
+jupyter nbconvert --to pdf *.ipynb
+notebook.pdf
+ls
+jupyter nbconvert --to pdf *.ipynb
+cd imgs
+cd ..
+cd ..
+ls
+jupyter nbconvert --to pdf a1/*.ipynb
+cd a1
+ls
+cd imgs
+jupyter nbconvert --to pdf ../*.ipynb
+cd ..
+jupyter nbconvert --to pdf ../*.ipynb
+jupyter nbconvert --to pdf ./*.ipynb
+jupyter nbconvert --to pdf ./*.ipynb --output a1.pdf
+jupyter nbconvert --to latex ./*.ipynb --output a1.pdf
+xelatex a1.pdf.tex
+conda install numpy
+conda install pandas
+y
+conda activate cs224n
+ls
+cd Documents
+ls
+cd classes/CS\ 224N/a1
+ls
+jupyter lab
+conda install nbconvert -y
+jupyter lab
+python algorithmicdecisionmaking.py
+/Applications/Julia-1.8.app/Contents/Resources/julia/bin/julia ; exit;
+julia
+julia
+julila
+julia
+/Applications/Julia-1.8.app/Contents/Resources/julia/bin/julia ; exit;
+sudo mkdir -p /usr/local/bin\
+sudo rm -f /usr/local/bin/julia\
+sudo ln -s /Applications/Julia-1.8.app/Contents/Resources/julia/bin/julia /usr/local/bin/julia
+julia
+julia
+julia
+julia compute.jl
+julia project1.jl
+julia project1.jl
+using Pkg
+julia
+julia project1.jl
+julia project1.jl small.csv test.gph
+test.gph
+julia project1.jl data/small.csv test/test.gph
+julia project1.jl data/small.csv test/test.gph
+julia project1.jl data/small.csv test/test.gph
+cls
+clear
+clear
+julia project1.jl data/small.csv test/test.gph
+julia
+ls
+cd decisionmaking-code
+ls
+julia decision_making_code.jl
+julia decision_making_code.jl
+julia decision_making_code.jl
+julia decision_making_code.jl
+julia decision_making_code.jl
+julia decision_making_code.jl
+julia
+julia
+julia
+julia
+julia
+julia
+julia
+julia
+julia
+julia
+julia decision_making_code.jl
+julia project1.jl data/small.csv test/test.gph
+julia project1.jl data/small.csv test/test.gph
+julia project1.jl data/small.csv test/test.gph
+julia project1.jl data/small.csv test/test.gph
+julia project1.jl data/small.csv test/test.gph
+clear
+julia project1.jl data/small.csv test/test.gph
+julia project1.jl data/small.csv test/test.gph
+julia project1.jl data/small.csv sota/small.csv
+julia project1.jl data/small.csv sota/small.csv
+julia project1.jl data/large.csv test/large.gph
+julia
+julia project1.jl data/small.csv sota/small.csv
+julia project1.jl data/medium.csv sota/medium.csv
+julia project1.jl data/small.csv sota/small.gph
+julia project1.jl data/small.csv test/small.gph
+julia project1.jl data/small.csv test/small.gph
+julia project1.jl data/large.csv test/large.gph
+julia project1.jl data/small.csv test/small.gph
+julia
+julia project1.jl data/medium.csv test/medium.gph
+julia project1.jl data/medium.csv test/medium.gph
+julia
+ /usr/bin/env /usr/bin/python3 /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60592 -- /Users/jstav/Documents/classes/CS\ 224N/a3/parser_transitions.py 
+ cd /Users/jstav/Documents/classes/CS\ 224N/a3 ; /usr/bin/env /usr/bin/python3 /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60606 -- /Users/jstav/Documents/classes/CS\ 224N/a3/parser_transitions.py 
+ /usr/bin/env /usr/bin/python3 /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60601 -- /Users/jstav/Documents/classes/CS\ 224N/a3/parser_transitions.py 
+ /usr/bin/env /usr/bin/python3 /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60840 -- /Users/jstav/Documents/classes/CS\ 224N/a3/parser_transitions.py 
+ cd /Users/jstav/Documents/classes/CS\ 224N/a3 ; /usr/bin/env /usr/bin/python3 /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60871 -- /Users/jstav/Documents/classes/CS\ 224N/a3/parser_transitions.py 
+ cd /Users/jstav/Documents/classes/CS\ 224N/a3 ; /usr/bin/env /usr/bin/python3 /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63102 -- /Users/jstav/Documents/classes/CS\ 224N/a3/parser_transitions.py 
+ cd /Users/jstav/Documents/classes/CS\ 224N/a3 ; /usr/bin/env /usr/bin/python3 /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63122 -- /Users/jstav/Documents/classes/CS\ 224N/a3/parser_transitions.py 
+ /usr/bin/env /usr/bin/python3 /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60855 -- /Users/jstav/Documents/classes/CS\ 224N/a3/parser_transitions.py 
+ cd /Users/jstav/Documents/classes/CS\ 224N/a3 ; /usr/bin/env /usr/bin/python3 /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63116 -- /Users/jstav/Documents/classes/CS\ 224N/a3/parser_transitions.py 
+ cd /Users/jstav/Documents/classes/CS\ 224N/a3 ; /usr/bin/env /usr/bin/python3 /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63155 -- /Users/jstav/Documents/classes/CS\ 224N/a3/parser_transitions.py 
+/usr/bin/python3 -m pip install -U autopep8
+python
+conda activate cs224n
+conda install docopt
+    conda install pytorch torchvision -c pytorch
+    conda install -c anaconda tqdm
+python parser transitions.py part c
+python parser transitions.py part_c
+python parser_transitions.py part_c
+stack.pop(0)
+stack.pop(0)
+python parser_transitions.py part_c
+python parser_transitions.py part_c
+python parser_transitions.py part_d
+python parser_transitions.py part_d
+python parser_transitions.py part_d
+conda install torch
+conda install -c pytorch pytorch \
+
+python
+transitions = model.predict(partial_parses)
+ python parser transitions.py part d
+ python parser_transitions.py part_d
+ python parser_transitions.py part_d
+ python parser_transitions.py part_d
+ python parser_transitions.py part_d
+ python parser_transitions.py part_d
+python parser-model.py -e
+python parser_model.py -e
+conda activate cs224n
+conda activate cs224n
+python parser_model.py -e
+python parser_model.py -e
+python parser_model.py -f
+python parser_model.py -e
+python parser_model.py -f
+python parser_model.py -f
+python parser_model.py -f
+python parser_model.py -f
+python parser_model.py -f
+python parser_model.py -f
+python parser_model.py -f
+bro wtf
+ls
+. collect_submission.sh
+source collect_submission.sh
+conda activate cs224n
+python parser_model.py -e
+python parser_model.py -f
+python parser_model.py -f
+python parser_model.py -f
+python run.py
+julia
+python project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+julia project1.jl
+cd ..
+zip AlgorithmicDecisionMaking
+zip -e "adm" AlgorithmicDecisionMaking
+julia
+using Pkg\
+Pkg.add("Package Name")
+ls
+cd ..
+ls
+cd CS 238
+cd CS\ 238
+ls
+git clone https://github.com/algorithmsbooks/decisionmaking-code
+ls
+ERROR: Failed to precompile TikzGraphs
+rm("~/.julia/environments/v1.5/Manifest.toml",recursive=true)
+Pkg.installed()\
+\
+\
+\
+\
+c
+readdir(Pkg.dir())
+Pkg.installed()\
+\
+\
+\
+\
+c
+julia
+julia
+ls
+tmux
+ls
+cd Documents
+ls
+cd classes
+LS
+ls
+cd cs 238
+cd CS\ 238
+ls
+cd ..
+ls
+cd CS\ 238
+git clone https://github.com/sisl/AA228-CS238-Student/
+cd AA228-CS238-Student
+ls
+vscode
+julia
+rm -rf .julia
+rm -r .julia
+ls
+rm -r .julia
+/Applications/Julia-1.8.app/Contents/Resources/julia/bin/julia ; exit;
+brew install tmux
+tmux
+which brew
+conda deactivate
+which brew
+julia project1.jl
+julia
+tmux
+ls
+cd .vim
+ls
+cd autoload
+ls
+cd ..
+cd ~
+ls
+cd .vim
+ls
+rm -rf bundle
+ls
+ls
+ls
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+ls
+cd bundle
+ls
+cd Vundle
+tmux
+which bash
+which brew
+vim
+vim
+brew stow
+brew -h
+brew info stow
+ls
+cd .vim
+ls
+cd bundle
+ls
+git submodule add https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+git submodule add https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+ls
+git submodule add https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim ~/code/dotfiles/.vim/bundle
+cd ..
+cd ..
+git submodule add https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim ~/code/dotfiles/.vim/bundle
+git submodule add https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim ~/code/dotfiles/.vim/bundle
+git submodule add https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim ~/code/dotfiles/.vim/bundle -f
+git submodule add https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+git submodule add -f https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+git submodule add -f https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+git submodule rm https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+git submodule add https://github.com/VundleVim/Vundle.vim ~/.vim/bundle/Vundle.vim
+git submodule add -f http://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+git branch
+git rm --cached -f *.DS_Store
+git submodule add https://github.com/tmux-plugins/tpm ~/.tmux/plugins
+git submodule add https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+git submodule add -h
+git submodule add https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+ls
+cd .tmux
+ls
+cd plugins
+git submodule add https://github.com/tmux-plugins/tpm
+ls -a
+git reset
+git submodule add https://github.com/tmux-plugins/tpm
+git submodule add https://github.com/tmux-plugins/tpm
+git status
+cd ..
+cd ..
+ls
+cd .vim
+ls
+cd bundle
+git submodule add https://github.com/VundleVim/Vundle.vim
+git submodule add -f https://github.com/VundleVim/Vundle.vim
+cd ..
+cd ..
+find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
+which xelatex
+which pdftex
+julia
+which brew
+brew install --cask mactex
+vim
+vim
+vim
+echo $PATH
+which zsh
+which bash
+tmux
+which bash
+tmux
+tmux
+tmux
+which xelatex
+tmux
+ /usr/bin/env /usr/bin/python3 /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 55161 -- /Users/jstav/Documents/classes/CS\ 224N/a4/nmt_model.py 
+ /usr/bin/env /usr/bin/python3 /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 55166 -- /Users/jstav/Documents/classes/CS\ 224N/a4/nmt_model.py 
+python
+conda env create --file local_env.yml
+conda env create --file local_env.yml
+conda env list
+conda activate local_nmt
+conda env update
+which brew
+conda env remove -n local_nmt
+conda deactivate
+conda env remove -n local_nmt
+conda env create --file local_env.yml
+conda env list
+conda activate local_nmt
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+ /usr/bin/env /usr/bin/python3 /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 49864 -- /Users/jstav/Documents/classes/CS\ 224N/a4/.vscode/settings.json 
+ /usr/bin/env /usr/bin/python3 /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 49734 -- /Users/jstav/Documents/classes/CS\ 224N/a4/nmt_model.py 
+source activate local_nmt
+ /usr/bin/env /Users/jstav/miniconda3/envs/local_nmt/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50006 -- /Users/jstav/Documents/classes/CS\ 224N/a4/.vscode/settings.json 
+source activate local_nmt
+ /usr/bin/env /Users/jstav/miniconda3/envs/local_nmt/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50039 -- /Users/jstav/Documents/classes/CS\ 224N/a4/nmt_model.py 
+source activate local_nmt
+ /usr/bin/env /Users/jstav/miniconda3/envs/local_nmt/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50050 -- /Users/jstav/Documents/classes/CS\ 224N/a4/nmt_model.py 
+ cd /Users/jstav/Documents/classes/CS\ 224N/a4 ; /usr/bin/env /Users/jstav/miniconda3/envs/local_nmt/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50059 -- /Users/jstav/Documents/classes/CS\ 224N/a4/nmt_model.py 
+ cd /Users/jstav/Documents/classes/CS\ 224N/a4 ; /usr/bin/env /Users/jstav/miniconda3/envs/local_nmt/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50155 -- /Users/jstav/Documents/classes/CS\ 224N/a4/utils.py 
+ cd /Users/jstav/Documents/classes/CS\ 224N/a4 ; /usr/bin/env /Users/jstav/miniconda3/envs/local_nmt/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50332 -- /Users/jstav/Documents/classes/CS\ 224N/a4/utils.py 
+ cd /Users/jstav/Documents/classes/CS\ 224N/a4 ; /usr/bin/env /Users/jstav/miniconda3/envs/local_nmt/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50346 -- /Users/jstav/Documents/classes/CS\ 224N/a4/utils.py 
+conda activate *
+conda env list
+conda activate local_nmt
+which python
+python sanity_check.py 1d
+source activate local_nmt
+ /usr/bin/env /Users/jstav/miniconda3/envs/local_nmt/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50532 -- -m sanity_check\ 1d 
+source activate local_nmt
+ /usr/bin/env /Users/jstav/miniconda3/envs/local_nmt/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50510 -- -m sanity_check 
+source activate local_nmt
+ /usr/bin/env /Users/jstav/miniconda3/envs/local_nmt/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50687 -- -m sanity_check 1d 
+source activate local_nmt
+ /usr/bin/env /Users/jstav/miniconda3/envs/local_nmt/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51400 -- -m sanity_check 1d 
+source activate local_nmt
+ /usr/bin/env /Users/jstav/miniconda3/envs/local_nmt/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51418 -- -m sanity_check 1d 
+source activate local_nmt
+ /usr/bin/env /Users/jstav/miniconda3/envs/local_nmt/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51999 -- -m sanity_check 1d 
+source activate local_nmt
+ /usr/bin/env /Users/jstav/miniconda3/envs/local_nmt/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52130 -- -m sanity_check 1d 
+ cd /Users/jstav/Documents/classes/CS\ 224N/a4 ; /usr/bin/env /Users/jstav/miniconda3/envs/local_nmt/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60052 -- -m sanity_check 1e 
+source activate local_nmt
+ /usr/bin/env /Users/jstav/miniconda3/envs/local_nmt/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60985 -- -m sanity_check 1f 
+conda activate local_nmt
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1d
+python sanity_check.py 1e
+python sanity_check.py 1e
+python sanity_check.py 1e
+python sanity_check.py 1e
+python sanity_check.py 1e
+python sanity_check.py 1e
+python sanity_check.py 1e
+python sanity_check.py 1e
+python sanity_check.py 1e
+python sanity_check.py 1e
+python sanity_check.py 1e
+python sanity_check.py 1e
+python sanity_check.py 1f
+python sanity_check.py 1f
+python sanity_check.py 1f
+python sanity_check.py 1f
+python sanity_check.py 1f
+python sanity_check.py 1f
+python sanity_check.py 1f
+python sanity_check.py 1f
+python sanity_check.py 1f
+python sanity_check.py 1f
+python sanity_check.py 1f
+python sanity_check.py 1f
+python sanity_check.py 1f
+python sanity_check.py 1f
+python sanity_check.py 1f
+python sanity_check.py 1f
+sh run.sh train_local
+conda activate local_nmt
+sh run.sh train_local
+python run.py train --train-src=./zh_en_data/train_debug.zh --train-tgt=./zh_en_data/train_debug.en --dev-src=./zh_en_data/dev.zh --dev-tgt=./zh_en_data/dev.en --vocab=vocab.json --lr=5e-4
+conda env create âƒ¨ƒ²âƒ¨ƒ²file local_env.yml
+conda env create âƒ¨ƒ²âƒ¨ƒ²file local_env.yml
+conda deactivate
+conda env remove local_nmt
+conda env remove -nlocal_nmt
+conda env list
+conda env create âƒ¨ƒ²âƒ¨ƒ²file local_env.yml
+conda env list
+conda env create âƒ¨ƒ²âƒ¨ƒ²file local_env.yml
+conda env create --file local_env.yml
+ping pypi.python.org
+source activate local_nmt
+python
+source activate local_nmt
+GRPC_PYTHON_BUILD_SYSTEM_ZLIB=true GRPC_PYTHON_BUILD_SYSTEM_OPENSSL=true pip install grpcio
+conda env create --file local_env.yml
+conda deactivate
+conda env remove local_nmt
+conda env remove -n local_nmt
+conda env create --file local_env.yml
+conda activate local_nmt
+sh run.sh train_local
+sh run.sh train_local
+python run.py train --train-src=./zh_en_data/train_debug.zh --train-tgt=./zh_en_data/train_debug.en --dev-src=./zh_en_data/dev.zh --dev-tgt=./zh_en_data/dev.en --vocab=vocab.json --lr=5e-4
+source activate local_nmt
+/Users/jstav/miniconda3/envs/local_nmt/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/shell_exec.py /Users/jstav/miniconda3/envs/local_nmt/bin/python -m pip install -U torch-tb-profiler /var/folders/ry/1qtn_n9x1nl50nzhm042yz_c0000gn/T/tmp-2492lgUBDiSSLb19.log
+sh run.sh train_local
+tensorboard âƒ¨ƒ²âƒ¨ƒ²logdir=runs
+tensorboard
+tensorboard âƒ¨ƒ²âƒ¨ƒ²logdir=runs
+sh run.sh train_debug
+source activate local_nmt
+conda deactivate
+conda remove -n local_nmt
+conda remove local_nmt
+conda env create --file local_env.yml
+conda env list
+conda remove local_nmt
+conda env remove -n local_nmt
+conda env list
+conda env create --file local_env.yml
+conda activate local_nmt
+sh run.sh train_local
+source activate local_nmt
+tensorboard âƒ¨ƒ²âƒ¨ƒ²logdir=runs
+pip install âƒ¨ƒ²r gpu_requirements.txt
+. collect_submission.sh
+sh collect_submission.
+sh collect_submission.sh
+conda env create âƒ¨ƒ²âƒ¨ƒ²file local_env.yml
+vim local_env.yml
+conda env list
+conda create -env scratch
+conda create -n scratch
+conda activate scratch
+conda install -c bioconda pybedtools
+which apt-get
+which apt
+sudo apt install python3-pybedtools
+which java
+which javac
+conda install -c "bioconda/label/cf201901" pybedtools
+ls
+cd Documents/classes
+cd CS\ 224N
+ls
+git clone https://github.com/RyanRTJJ/cheatGPT
+visudo
+help visudo
+visudo -h
+cd discriminators
+git submodule add https://github.com/eric-mitchell/detect-gpt
+conda create --name proj --file requirements.txt
+cd ..
+conda create --name proj --file requirements.txt
+conda create --name proj --file requirements.txt
+conda create --file environment.yml
+conda create --name proj --file environment.yml
+conda env create --file environment.yml
+conda env create --file environment.yml
+conda env create --file environment.yml
+conda activate proj
+ls
+cd discriminators
+ls
+cd detect-gpt
+ls
+python run.py
+conda install -c pytorch torchvision cudatoolkit=11.1 pytorch
+conda install -c pytorch torchvision cudatoolkit=10.1 pytorch
+conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
+conda install pytorch torchvision cudatoolkit -c pytorch
+conda install pytorch torchvision -c pytorch
+python run.py
+conda install pytorch torchvision cudatoolkit -c defaults conda-forge
+conda install pytorch torchvision cudatoolkit -c defaults
+conda install pytorch torchvision cudatoolkit -c conda-forge
+conda install pytorch cudatoolkit=11.1 -c pytorch -c nvidia
+conda install pytorch cudatoolkit -c pytorch -c nvidia
+conda install pytorch cudatoolkit -c nvidia
+source activate proj
+conda install -h
+conda env remove -n proj
+conda remove proj
+conda deactivate
+conda env remove -n proj
+conda activate proj
+conda env create --file environment.yml
+conda env create --file environment.yml
+conda env create --file environment.yml
+conda create --name proj --file requirements.txt
+conda activate proj
+python
+julia
+cd code
+ls
+cd ss-mac
+git pull
+ls
+cd ss-pl
+git pull
+julia julia.jl
+git pull
+git pull
+git pull
+source activate proj
+ /usr/bin/env /Users/jstav/miniconda3/envs/proj/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2023.2.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52909 -- /Users/jstav/Documents/classes/CS\ 224N/cheatGPT/discriminators/test.py 
+source activate proj
+python
+conda activate proj
+python generators/test.py
+python generators/test.py
+python discriminators/test.py
+python rp2json.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+source activate proj
+ /usr/bin/env /Users/jstav/miniconda3/envs/proj/bin/python /Users/jstav/.vscode/extensions/ms-python.python-2023.2.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 62020 -- /Users/jstav/Documents/classes/CS\ 224N/cheatGPT/discriminators/test.py 
+vim .ssh/known_hosts
+vim .ssh/config
+source activate proj
+ssh saucyminks@20.96.184.64
+source activate proj
+source activate proj
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python rp2json.py
+python rp2json.py
+python discriminators/test.py
+python discriminators/test.py
+python rp2json.py
+python discriminators/test.py
+python rp2json.py
+python discriminators/test.py
+python rp2json.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python discriminators/test.py
+python tests/discriminators.py
+python tests/discriminators.py
+source activate proj
+ssh -i "aws_saucyminks.pem" root@ec2-54-189-39-13.us-west-2.compute.amazonaws.com
