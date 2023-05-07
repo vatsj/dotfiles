@@ -142,3 +142,6 @@ if [ -f '/home/jstav/Downloads/google-cloud-sdk/path.bash.inc' ]; then . '/home/
 
 # The next line enables shell command completion for gcloud.
 if [ -f '/home/jstav/Downloads/google-cloud-sdk/completion.bash.inc' ]; then . '/home/jstav/Downloads/google-cloud-sdk/completion.bash.inc'; fi
+
+# loads secrets from pwd
+source secrets.sh
