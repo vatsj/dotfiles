@@ -142,3 +142,5 @@ if [ -f '/home/jstav/Downloads/google-cloud-sdk/path.bash.inc' ]; then . '/home/
 
 # The next line enables shell command completion for gcloud.
 if [ -f '/home/jstav/Downloads/google-cloud-sdk/completion.bash.inc' ]; then . '/home/jstav/Downloads/google-cloud-sdk/completion.bash.inc'; fi
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/ubuntu/.mujoco/mujoco210/bin
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia

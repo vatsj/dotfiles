@@ -6,3 +6,4 @@
 /Users/jstav/miniconda3/envs/proj
 /Users/jstav/miniconda3/envs/nlu
 /Users/jstav/miniconda3/envs/cs224r
+/Users/jstav/miniconda3/envs/llama
