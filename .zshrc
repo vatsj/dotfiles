@@ -15,5 +15,5 @@ unset __conda_setup
 # <<< conda initialize <<<
 
 # loads secrets!
-source secrets.sh
+# source secrets.sh
 
