@@ -13,5 +13,6 @@
 # macOS artifact
 .DS_Store
 
-# secrets file
+# secrets files
 secrets.sh
+.env
