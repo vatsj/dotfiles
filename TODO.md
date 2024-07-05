@@ -1,0 +1,3 @@
+- vimrc
+  - make ctrl-/ comment lines
+  - neovim babeyyyyy
