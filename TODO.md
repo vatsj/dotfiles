@@ -6,4 +6,6 @@
 - symlink ur .rc reasonably
     - assume ur using warp
 - .mcp files
+    - consolidate into one .mcp in root dir?
+    - makes things ez 2 track :)
 
