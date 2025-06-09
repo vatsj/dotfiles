@@ -8,4 +8,8 @@
 - .mcp files
     - consolidate into one .mcp in root dir?
     - makes things ez 2 track :)
+- vim plugim 4 cmd line
+- lm plugin 4 vim
+- helper script 4 vals envs?
+    - or j use .envs cleverly
 
