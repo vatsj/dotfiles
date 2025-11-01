@@ -4,7 +4,7 @@
     - + code completions
 - no conda pls
 - symlink ur .rc reasonably
-    - assume ur using warp
+- .claude
 - .mcp files
     - consolidate into one .mcp in root dir?
     - makes things ez 2 track :)
