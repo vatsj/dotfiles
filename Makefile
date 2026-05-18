@@ -6,13 +6,12 @@ SOURCE_DIR = ${shell pwd}
 TARGET_DIR = ${HOME}
 REPLACED_DIR = ${TARGET_DIR}/replaced_dotfiles
 
-# creates directory for replaced dotfiles
-# does nothing if directory already exists
-mkdir -p ${REPLACED_DIR}
-
 # clears old dotfiles from home directory
 # FAILING ON MAC
 clear-dotfiles:
+	# creates directory for replaced dotfiles
+	# does nothing if directory already exists
+	mkdir -p ${REPLACED_DIR}
 
 	# for each dotfile, clears from home dir if it exists
 	# throws errors when `basename ${file}` is undefined``
