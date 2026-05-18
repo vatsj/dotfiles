@@ -1,4 +1,4 @@
-" toggle '# ' on the current line / selection (python only)
+" toggle '# ' on the current line / selection
 " ctrl-/ is delivered as <C-_> by most terminals
 function! s:ToggleComment() range
   if getline(a:firstline) =~ '^\s*#'
